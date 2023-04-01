@@ -11,11 +11,12 @@ created text-utils app using [create-react-app](https://create-react-app.dev/doc
 
 * **Light mode**
 
-![Screenshot 2023-01-17 213430](https://user-images.githubusercontent.com/120083268/212950747-4fb6a05c-a903-4548-840b-ba2cf9631b39.png)
+![Screenshot 2023-04-01 150220](https://user-images.githubusercontent.com/120083447/229278224-ef8d45ef-0c8d-4f71-9743-5090afe3b6ac.jpg)
 
 * **Dark mode**
 
-![Screenshot 2023-01-17 213454](https://user-images.githubusercontent.com/120083268/212950800-011786c6-bdc7-4404-b23a-116621f86b1a.png)
+![Screenshot 2023-04-01 150252](https://user-images.githubusercontent.com/120083447/229278216-24b922df-b9a1-42ef-bd1e-b66a7059ae9e.jpg)
+
 
 
 ### Steps to setup
