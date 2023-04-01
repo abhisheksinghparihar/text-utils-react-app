@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abhisheksinghparihar/text-utils-react-app/static/css/main.4f9a72d8.css",
+    "main.js": "/abhisheksinghparihar/text-utils-react-app/static/js/main.2e15d99c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/abhisheksinghparihar/text-utils-react-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/abhisheksinghparihar/text-utils-react-app/index.html",
+    "main.4f9a72d8.css.map": "/abhisheksinghparihar/text-utils-react-app/static/css/main.4f9a72d8.css.map",
+    "main.2e15d99c.js.map": "/abhisheksinghparihar/text-utils-react-app/static/js/main.2e15d99c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/abhisheksinghparihar/text-utils-react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f9a72d8.css",
+    "static/js/main.2e15d99c.js"
+  ]
+}
